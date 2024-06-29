@@ -24,3 +24,4 @@ Official API Websites:
 https://www.yt2mp3.ws/developers/
 https://www.yt-download.org/developers
 Demo Sites: https://convert2mp3s.com/ https://mp3planete.com/ https://narcosmp3.com/ https://mp3juice.guru/
+https://mp3-paw.xyz/
